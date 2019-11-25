@@ -1,0 +1,8 @@
+h1 {
+    color: blueviolet;
+    <t class="blueviolet-text">
+}
+
+.blueviolet-text {
+    color: aqua;
+}
